@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "407743437613",
+    "project_id": "flutter-bakaiti-app",
+    "storage_bucket": "flutter-bakaiti-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407743437613:android:5652e7c94cd5cb896991a4",
+        "android_client_info": {
+          "package_name": "com.example.bakaiti_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407743437613-ojpm57nk3bik36q8j8ltfj17fdolc0mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bakaiti_app",
+            "certificate_hash": "4b5502ebec5743bd7d59bb37cca0e9bd9eff8064"
+          }
+        },
+        {
+          "client_id": "407743437613-2dgplecj7585avpvg35qlspi65rq6vvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuI9jHBhaDhS0LDWeGY8XJmz4mZqvo2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407743437613-2dgplecj7585avpvg35qlspi65rq6vvu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "407743437613-7temrtfvrp7aautmojslu9pl7e5tv653.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bakaitiApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
