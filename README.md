@@ -1,8 +1,8 @@
-<h1 align="left">💬🗣️Chatting(Bakaiti) App🗨️</h1>
+<h1 align="left">🗨️🗣️Chatting(Bakaiti) App💬</h1>
 
 ###
 
-<p align="left">⭐Note:</p>
+<p align="left">⭐Note: The Purpose of the Bakaiti App is to Communicate with other.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📲</p>
+<p align="left">📲Easy to use Application build with Flutter & Dart, offering multiple Features.</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">👩‍🏫 User-Friendly Interface – Easy to use.</p>
+<p align="left">👩‍🏫 User-Friendly Interface – Easy to use.<br><br>⏳ Real-time messaging (with Firebase).<br><br>🤘 Google Sign-In (no account or mobile number needed).<br><br>📩 Add users by email ID.<br><br>📷 Simple user profiles (with photo, about, last-seen, created-at).<br><br>📖 Message read status.<br><br>❌ Message delete & edit features.<br><br>🔔 Message notifications (push notifications).<br><br>💭 Sleek UI with new Material Widgets.<br><br>💬 And much more...</p>
 
 ###
 
@@ -44,6 +44,6 @@
 
 ###
 
-<p align="left">🔸<br>🔸<br>🔸<br>🔸<br>🔸</p>
+<p align="left">🔸Flutter Chat App<br>🔸Dart Chat Application<br>🔸Firebase Real-Time Messaging<br>🔸Google Sign-In Chat App<br>🔸Cross-Platform Chat App<br>🔸Flutter Firebase Integration<br>🔸Flutter Messaging App<br>🔸Material Design in Flutter</p>
 
 ###
