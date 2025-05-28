@@ -44,6 +44,6 @@
 
 ###
 
-<p align="left">🔸Flutter Chat App<br>🔸Dart Chat Application<br>🔸Firebase Real-Time Messaging<br>🔸Google Sign-In Chat App<br>🔸Cross-Platform Chat App<br>🔸Flutter Firebase Integration<br>🔸Flutter Messaging App<br>🔸Material Design in Flutter</p>
+<p align="left">🔸Flutter Chat App<br><br>🔸Dart Chat Application<br><br>🔸Firebase Real-Time Messaging<br><br>🔸Google Sign-In Chat App<br><br>🔸Cross-Platform Chat App<br><br>🔸Flutter Firebase Integration<br><br>🔸Flutter Messaging App<br><br>🔸Material Design in Flutter</p>
 
 ###
