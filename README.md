@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">👩‍🏫 User-Friendly Interface – Easy to use.<br><br>⏳ Real-time messaging (with Firebase).<br><br>🤘 Google Sign-In (no account or mobile number needed).<br><br>📩 Add users by email ID.<br><br>📷 Simple user profiles (with photo, about, last-seen, created-at).<br><br>📖 Message read status.<br><br>❌ Message delete & edit features.<br><br>🔔 Message notifications (push notifications).<br><br>💭 Sleek UI with new Material Widgets.<br><br>💬 And much more...</p><br>
+<p align="left">👩‍🏫 User-Friendly Interface – Easy to use.<br><br>⏳ Real-time messaging (with Firebase).<br><br>🤘 Google Sign-In (no account or mobile number needed).<br><br>📩 Add users by email ID.<br><br>📷 Simple user profiles (with photo, about, last-seen, created-at).<br><br>📖 Message read status.<br><br>❌ Message delete & edit features.<br><br>🔔 Message notifications (push notifications).<br><br>💭 Sleek UI with new Material Widgets.<br><br>💬 And much more...</p><br><br>
 
 ###
 
