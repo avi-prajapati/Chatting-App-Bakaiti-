@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⭐Note: The Purpose of the Bakaiti App is to Communicate with other.</p><br>
+<p align="left">⭐Note: The Purpose of the Bakaiti App is to Communicate with other.</p><br><br>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📲Easy to use Application build with Flutter & Dart, offering multiple Features.</p><br>
+<p align="left">📲Easy to use Application build with Flutter & Dart, offering multiple Features.</p><br><br>
 
 ###
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   <img height="200" src=""  />
-</div><br>
+</div><br><br>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">For any feedback or suggestions, feel free to contact me via email:<br>📧 aviprajapati00077@gmail.com.</p><br>
+<p align="left">For any feedback or suggestions, feel free to contact me via email:<br>📧 aviprajapati00077@gmail.com.</p><br><br>
 
 ###
 
@@ -44,6 +44,6 @@
 
 ###
 
-<p align="left">🔸Flutter Chat App<br><br>🔸Dart Chat Application<br><br>🔸Firebase Real-Time Messaging<br><br>🔸Google Sign-In Chat App<br><br>🔸Cross-Platform Chat App<br><br>🔸Flutter Firebase Integration<br><br>🔸Flutter Messaging App<br><br>🔸Material Design in Flutter</p><br>
+<p align="left">🔸Flutter Chat App<br><br>🔸Dart Chat Application<br><br>🔸Firebase Real-Time Messaging<br><br>🔸Google Sign-In Chat App<br><br>🔸Cross-Platform Chat App<br><br>🔸Flutter Firebase Integration<br><br>🔸Flutter Messaging App<br><br>🔸Material Design in Flutter</p><br><br>
 
 ###
